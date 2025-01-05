@@ -16,7 +16,7 @@
 Клонируйте репозиторий на ваш локальный компьютер:
 
 ```bash
-git clone https://github.com/rafsimov/template-fastapi
+git clone [https://github.com/rafsimov/=](https://github.com/rafsimov/Template-FastAPI)
 cd template-fastapi
 ```
 ```bash
@@ -38,7 +38,7 @@ curl -X 'POST' \
   'http://localhost:8000/user/' \
   -H 'Content-Type: application/json' \
   -d '{
-  "name": "John Doe"
+  "name": "Dol Baeb"
 }'
 ```
 Получение пользователя:
@@ -51,7 +51,7 @@ curl -X 'PUT' \
   'http://localhost:8000/user/1' \
   -H 'Content-Type: application/json' \
   -d '{
-  "name": "Jane Doe"
+  "name": "Dol Baeb"
 }'
 ```
 Удаление пользователя:
