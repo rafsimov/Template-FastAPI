@@ -1,8 +1,9 @@
 # FastAPI шаблон
 <p align="center">
-  <a href="README.md">English</a>
-  <a href="README.ru.md">Русский</a> |
+  <a href="README.md" style="font-size: 20px; margin-right: 20px;">English</a> |
+  <a href="README.ru.md" style="font-size: 20px;">Русский</a>
 </p>
+
 Шаблон backend rest-api для вашего проекта, система тротлинга логов все есть
 
 ## Требования

@@ -1,8 +1,9 @@
 # FastAPI template
 <p align="center">
-  <a href="README.md">English</a>
-  <a href="README.ru.md">Русский</a> |
+  <a href="README.md" style="font-size: 20px; margin-right: 20px;">English</a> |
+  <a href="README.ru.md" style="font-size: 20px;">Русский</a>
 </p>
+
 Backend rest-api template for your project, logging trottling system everything is there
 
 ## Requirements
